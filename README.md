@@ -41,7 +41,9 @@
 <br />
 
 ### My Stats:
-[![Proneets's github stats](https://github-readme-stats.vercel.app/api?username=ProneetSeth)](https://github.com/ProneetSeth/github-readme-stats)
+![Proneet's github stats](https://github-readme-stats.vercel.app/api?username=ProneetSeth&show_icons=true&theme=vision-friendly-dark)
+### Language:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProneetSeth&layout=compact)](https://github.com/ProneetSeth/github-readme-stats)
 
 
 
