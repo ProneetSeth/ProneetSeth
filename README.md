@@ -77,6 +77,6 @@ Hi, I'm Proneet Kumar Seth, a Front End Developer 🚀 from India. Beside's prog
 
 ### My Stats:
 ![Proneet's github stats](https://github-readme-stats.vercel.app/api?username=ProneetSeth&show_icons=true&hide_border=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProneetSeth&layout=compact&langs_count=6)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProneetSeth&layout=compact&langs_count=6)
 
 
