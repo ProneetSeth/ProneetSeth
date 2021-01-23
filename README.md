@@ -1,4 +1,4 @@
-### Hello, I'm Pronnet👋<p align="left">
+### Hello, I'm Proneet👋<p align="left">
   </br>
   
  <a href="https://twitter.com/sethproneet">
