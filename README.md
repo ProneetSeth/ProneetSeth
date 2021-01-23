@@ -1,6 +1,30 @@
-### Hello, I'm Pronnet Seth 👋
+### Hello, I'm Pronnet👋<p align="left">
+  </br>
+  
+ <a href="https://twitter.com/sethproneet">
+  <img align="left" alt="Pronnet Seth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/proneet-kumar-seth-a09514116/">
+  <img align="left" alt="Proneet's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/proneet.1111_official/">
+  <img align="left" alt="Proneet's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.leetcode.com/https://leetcode.com/prook/">
+  <img align="left" alt="Proneet's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/white_noob_coder" target="blank">
+  <img align="left" alt="Proneet's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />
+</a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=ProneetSeth.ProneetSeth)   <img src="https://komarev.com/ghpvc/?username=ProneetSeth" alt="ProneetSeth" /> </p>
+<br />
 
+Hi, I'm Proneet Kumar Seth, a Front End Developer 🚀 from India. Beside's programming, I enjoy Photography,eating food and traveling.
+
+   <img align="right" alt="GIF" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
+
+**Talking about my Personal Stuffs:**
 - 🔭 I was working In L&T 
 - 🌱 I’m currently learning Everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -8,36 +32,26 @@
 - 💬 Ask me about ADAS (Advance Driver Assistance System)
 - ⚡ Fun fact: Love to Watch Anime 🤣
 
-### Connect with me:
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/proneet-kumar-seth-a09514116/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/proneet-kumar-seth-a09514116/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/proneet.1111_official/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/proneet.1111_official/" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/sethproneet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/sethproneet" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/white_noob_coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/white_noob_coder" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/prook/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/prook/" height="30" width="40" /></a>
-</p>
+**Languages and Tools:** 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
-### Languages and Tools I used and Tutorials I followed:
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+[<img height="20" align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img height="20" align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmlplaylist]
+[<img height="20" align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img height="20" align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmlplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodeplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][gitplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][githubplaylist]
+[<img height="20" align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img height="20" align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodeplaylist]
+[<img height="20" align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][gitplaylist]
+[<img height="20" align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][githubplaylist]
 </br>
 
 ### My Stats:
-![Proneet's github stats](https://github-readme-stats.vercel.app/api?username=ProneetSeth&show_icons=true&theme=vision-friendly-dark)
-### Language:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProneetSeth&layout=compact)](https://github.com/ProneetSeth/github-readme-stats)
+![Proneet's github stats](https://github-readme-stats.vercel.app/api?username=ProneetSeth&show_icons=true&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProneetSeth&layout=compact)
 
 
 
