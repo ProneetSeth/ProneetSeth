@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/proneet.1111_official/">
   <img align="left" alt="Proneet's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://leetcode.com/ProOk/">
+<a href="https://leetcode.com/Proneet/">
   <img align="left" alt="Proneet's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://www.hackerrank.com/White_Noob_Coder?hr_r=1">
