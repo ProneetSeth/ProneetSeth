@@ -11,7 +11,7 @@
   <img align="left" alt="Proneet's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://leetcode.com/Proneet/">
-  <img align="left" alt="Proneet's Leetcode" width="22px" src="<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" />" />
+  <img align="left" alt="Proneet's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg"/>
 </a>
 <a href="https://www.hackerrank.com/White_Noob_Coder?hr_r=1">
   <img align="left" alt="Proneet's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />
