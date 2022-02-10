@@ -25,10 +25,10 @@ Hi, I'm Proneet Kumar Seth, a Front End Developer 🚀 from India. Beside's prog
    <img align="right" alt="GIF" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
 
 **Talking about my Personal Stuffs:**
-- 🔭 I was working In L&T 
-- 🌱 I’m currently learning Everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with Web Dev new Tech
+- 🔭 I was working In L&T and Playment as a Quality Analyst.
+- 🌱 I’m currently React.js Developer 🐱‍👤
+- 👯 I’m looking to collaborate with amazing minds out there. 😎
+- 🤔 I’m looking for help with new and awesome tech in Web Dev 🤖
 - 💬 Ask me about ADAS (Advance Driver Assistance System)
 - ⚡ Fun fact: Love to Watch Anime 🤣
 
