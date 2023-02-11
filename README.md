@@ -48,12 +48,12 @@ Hi, I'm Proneet Kumar Seth, a Front End Developer 🚀 from India. Beside's prog
   <img height="20" alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </a>
 
-<a href="https://www.w3schools.com/html/">
+<!-- <a href="https://www.w3schools.com/html/">
   <img height="20" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </a>
 <a href="https://www.w3schools.com/css/">
   <img height="20" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</a>
+</a> -->
 <a href="https://www.w3schools.com/js/DEFAULT.asp">
   <img height="20" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </a>
