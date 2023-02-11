@@ -36,7 +36,7 @@ Hi, I'm Proneet Kumar Seth, a Front End Developer 🚀 from India. Beside's prog
   <img height="20" alt="cplusplus" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/> 
 </a>
 <a href="https://www.java.com"> 
-  <img height="20" alt="java" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> 
+  <img height="20" alt="java" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
 </a>
 
 <a href="https://code.visualstudio.com/"> 
