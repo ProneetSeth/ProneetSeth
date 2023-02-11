@@ -4,17 +4,15 @@
  <a href="https://twitter.com/sethproneet">
   <img align="left" alt="Pronnet Seth | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
+
 <a href="https://www.linkedin.com/in/proneet-kumar-seth-a09514116/">
   <img align="left" alt="Proneet's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
+
 <a href="https://leetcode.com/Proneet/">
   <img align="left" alt="Proneet's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg"/>
 </a>
-<a href="https://leetcode.com/Proneet/">
-  <img align="left" alt="Proneet's Leetcode" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg](https://icons8.com/icon/wDGo581Ea5Nf/level-up-your-coding-skills-and-quickly-land-a-job)"/>
-</a>
 
-<!-- https://icons8.com/icon/wDGo581Ea5Nf/level-up-your-coding-skills-and-quickly-land-a-job -->
 <a href="https://www.hackerrank.com/White_Noob_Coder?hr_r=1">
   <img align="left" alt="Proneet's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />
 </a>
