@@ -7,9 +7,6 @@
 <a href="https://www.linkedin.com/in/proneet-kumar-seth-a09514116/">
   <img align="left" alt="Proneet's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/proneet.1111_official/">
-  <img align="left" alt="Proneet's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="https://leetcode.com/Proneet/">
   <img align="left" alt="Proneet's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg"/>
 </a>
