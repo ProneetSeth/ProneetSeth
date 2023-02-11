@@ -46,9 +46,9 @@ Hi, I'm Proneet Kumar Seth, a Front End Developer 🚀 from India. Beside's prog
   <img height="20" alt="selenium" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /> 
 </a>
 
-<a> 
+<!-- <a> 
   <img height="20" alt="jira" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /> 
-</a>
+</a> -->
 
 <a href="https://www.w3schools.com/html/">
   <img height="20" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
