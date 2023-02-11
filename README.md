@@ -32,13 +32,7 @@ Hi, I'm Proneet Kumar Seth, a Front End Developer 🚀 from India. Beside's prog
 
 **Languages and Tools:** 
 
-<a href="https://www.w3schools.com/cpp/"> 
-  <img height="20" alt="selenium" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /> 
-</a>
 
-<a> 
-  <img height="20" alt="selenium" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /> 
-</a>
 
 <a href="https://www.java.com"> 
   <img height="20" alt="java" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
@@ -48,6 +42,13 @@ Hi, I'm Proneet Kumar Seth, a Front End Developer 🚀 from India. Beside's prog
   <img height="20" alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </a>
 
+<a href="https://www.w3schools.com/cpp/"> 
+  <img height="20" alt="selenium" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /> 
+</a>
+
+<a> 
+  <img height="20" alt="selenium" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /> 
+</a>
 <!-- <a href="https://www.w3schools.com/html/">
   <img height="20" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </a>
