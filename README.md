@@ -10,6 +10,11 @@
 <a href="https://leetcode.com/Proneet/">
   <img align="left" alt="Proneet's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg"/>
 </a>
+<a href="https://leetcode.com/Proneet/">
+  <img align="left" alt="Proneet's Leetcode" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg](https://icons8.com/icon/wDGo581Ea5Nf/level-up-your-coding-skills-and-quickly-land-a-job)"/>
+</a>
+
+<!-- https://icons8.com/icon/wDGo581Ea5Nf/level-up-your-coding-skills-and-quickly-land-a-job -->
 <a href="https://www.hackerrank.com/White_Noob_Coder?hr_r=1">
   <img align="left" alt="Proneet's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />
 </a>
