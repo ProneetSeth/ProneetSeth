@@ -2,7 +2,7 @@
   </br>
   
  <a href="https://twitter.com/sethproneet">
-  <img align="left" alt="Pronnet Seth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Pronnet Seth | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
 <a href="https://www.linkedin.com/in/proneet-kumar-seth-a09514116/">
   <img align="left" alt="Proneet's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
