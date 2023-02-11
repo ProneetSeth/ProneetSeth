@@ -22,11 +22,11 @@ Hi, I'm Proneet Kumar Seth, a Front End Developer 🚀 from India. Beside's prog
    <img align="right" alt="GIF" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
 
 **Talking about my Personal Stuffs:**
-- 🔭 I was working Cognizant as Junior Associate.
+- 🔭 I am working **Cognizant** as **Junior Associate**.
 - 🌱 I’m currently Software test Engineer c👨‍💻
 - 👯 I’m looking to collaborate with amazing minds out there. 😎
 - 🤔 I’m looking for help with new and awesome tech in Web Dev 🤖
-- 💬 I wanted to be a good web developer 🌍
+- 💬 I wanted to be a good **Web Developer** 🌍
 - ⚡ Fun fact: Love to Watch Anime 🤣
 
 
