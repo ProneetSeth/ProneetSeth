@@ -49,12 +49,15 @@ Hi, I'm Proneet Kumar Seth, a Front End Developer 🚀 from India. Beside's prog
 <a> 
   <img height="20" alt="jira" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /> 
 </a>
-<!-- <a href="https://www.w3schools.com/html/">
+
+<a href="https://www.w3schools.com/html/">
   <img height="20" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </a>
+
 <a href="https://www.w3schools.com/css/">
   <img height="20" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</a> -->
+</a>
+
 <a href="https://www.w3schools.com/js/DEFAULT.asp">
   <img height="20" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </a>
@@ -70,12 +73,15 @@ Hi, I'm Proneet Kumar Seth, a Front End Developer 🚀 from India. Beside's prog
 <a href="https://nodejs.org/en/docs/">
   <img height="20" alt="Node.js" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </a>
+
 <a href="https://git-scm.com/doc">
   <img height="20"  alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
+
 <a href="https://docs.github.com/en">
   <img height="20" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </a>
+
 </br>
 
 ### My Stats:
